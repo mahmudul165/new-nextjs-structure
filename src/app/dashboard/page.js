@@ -1,5 +1,5 @@
 // app/dashboard/page.tsx
-import DashboardLayout from './layout';
+import DashboardLayout from '../layout';
 
 export default function DashboardPage() {
   return (
