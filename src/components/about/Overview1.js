@@ -73,17 +73,17 @@ function Overview1() {
               <h1 className="my-2 fs-1 fw-bolder">
                 Our Chairman Massage
               </h1>
-              <p className="my-2 py-2 fs-4">
-                Discover the soothing, restorative power of Sultan Tea – a
+              <p className="my-2 py-2 fs-4">efewgwe
+                {/* Discover the soothing, restorative power of Sultan Tea – a
                 massage blend of organic ingredients tailored to help you relax
-                and rejuvenate.
+                and rejuvenate. */}
               </p>
-              <p className="py-1 fs-5 text-justify">
-                With an exquisite blend of herbs, spices, and essential oils,
+              <p className="py-1 fs-5 text-justify">gwgeegw
+                {/* With an exquisite blend of herbs, spices, and essential oils,
                 Sultan Tea helps promote positive energy while providing relief
                 from tension and stress. Indulge in the luxury of Sultan Tea's
                 unique massage blend today and experience a tranquil moment away
-                from everyday life!
+                from everyday life! */}
               </p>
             </div>
           </section>

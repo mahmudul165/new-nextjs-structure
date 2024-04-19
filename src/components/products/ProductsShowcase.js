@@ -290,9 +290,9 @@ console.log('currentItems:',currentItems)
           )}
 
 {currentItems?.length === 0 && (
-  <h1 className="text-center fs-4 fw-bolder text-warning">
-    We're sorry, but there are no products available at the moment.
-    Please check back later.
+  <h1 className="text-center fs-4 fw-bolder text-warning">efww
+    {/* We're sorry, but there are no products available at the moment.
+    Please check back later. */}
   </h1>
 )}
         </motion.div>
