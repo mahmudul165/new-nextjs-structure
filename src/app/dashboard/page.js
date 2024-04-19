@@ -6,6 +6,9 @@ export default function DashboardPage() {
     <DashboardLayout>
       {/* Your dashboard content */}
       <h1>Hello, Dashboard!</h1>
+      <p>test</p>
     </DashboardLayout>
   );
 }
+ 
+ 
