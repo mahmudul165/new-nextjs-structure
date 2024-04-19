@@ -289,10 +289,12 @@ console.log('currentItems:',currentItems)
             </div>
           )}
 
-          {currentItems?.length===0 &&  <h1 className="text-center fs-4 fw-bolder text-warning">
-                We're sorry, but there are no products available at the moment.
-                Please check back later.
-              </h1>}
+{currentItems?.length === 0 && (
+  <h1 className="text-center fs-4 fw-bolder text-warning">
+    We're sorry, but there are no products available at the moment.
+    Please check back later.
+  </h1>
+)}
         </motion.div>
       </motion.div>
       <Pagination className="d-flex justify-content-end container my-5">

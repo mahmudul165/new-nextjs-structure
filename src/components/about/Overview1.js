@@ -61,7 +61,7 @@
 import Image from "next/image";
 import React from "react";
 import { Card } from "react-bootstrap";
-import OverViewImage2 from "/public/sultan-md.jpg";
+// import OverViewImage2 from "/public/sultan-md.jpg";
 
 function Overview1() {
   return (
@@ -90,14 +90,14 @@ function Overview1() {
           <section className="col-md-6 col-sm-12 d-flex justify-content-end">
             <div className="my-4 py-2">
               <Card className="cus-b-r-5">
-                <Image
+                {/* <Image
                   src={OverViewImage2}
                   alt="Picture of the author"
                   layout="responsive"
                   width={475}
                   height={317} // Adjust the height to maintain the aspect ratio
                   loading="lazy"
-                />
+                /> */}
               </Card>
             </div>
           </section>
